@@ -7,12 +7,12 @@
 
 ## Qué vas a armar
 
-La **Ventila ReDry de 2 Vías**: una ventila para secado de techos montada sobre una base de aluminio. El cuerpo blanco de la ventila (con el ventilador adentro) se fija al tubo vertical de aluminio, se cubre con una manga blanca y un codo (campana), y la ventila terminada se empaca una por caja junto con un anillo embellecedor y una hoja de instalación.
+La **Ventila ReDry de 2 Vías**: una ventila para secado de techos montada sobre una base de aluminio. El cuerpo blanco de la ventila (con el ventilador adentro) se fija al tubo vertical de aluminio, se cubre con una manga blanca y un codo (campana), y las ventilas terminadas se empacan dos por caja — acostadas cabeza con cola — junto con un anillo embellecedor y una hoja de instalación.
 
 <img src="images/img_0099.jpg" width="440" alt="Cuerpo de la ventila sobre la base de aluminio, con el codo atrás">
 
 **Cada caja terminada lleva:**
-1. Una ventila completamente ensamblada (base de aluminio + cuerpo + manga + codo)
+1. Dos ventilas completamente ensambladas (base de aluminio + cuerpo + manga + codo), acostadas cabeza con cola
 2. Un anillo embellecedor blanco ReDry
 3. Una hoja impresa "Vent Installation Detail" (detalle de instalación)
 4. Papel kraft de relleno
@@ -98,8 +98,8 @@ En la máquina de cinta: pon la medida en el dial, baja la palanca y sale la cin
 
 Mantén lleno el tanque de agua de la máquina para que la cinta pegue bien.
 
-### 10. La ventila entra de cabeza
-Voltea la caja boca arriba y mete la ventila ensamblada **con el codo hacia abajo y la brida de aluminio hacia arriba**.
+### 10. Entran dos ventilas — cabeza con cola
+Voltea la caja boca arriba. **Cada caja lleva dos ventilas, acostadas cabeza con cola** — la segunda volteada al revés de la primera, de modo que cada codo quede junto a la brida de la otra.
 
 <img src="images/img_0124.jpg" width="330" alt="Ventila colocada en la caja con el codo hacia abajo"> <img src="images/img_0125.jpg" width="330" alt="Ventila asentada en la caja, brida arriba">
 
@@ -128,11 +128,11 @@ Dobla las tapas y sella la parte de arriba con la tira de **cinta engomada con l
 - [ ] Tornillos puestos en las uniones de la manga y del codo
 - [ ] Cable y conector del ventilador acomodados, sin prensarse
 - [ ] Fondo de la caja sellado en patrón H
-- [ ] Contenido: ventila (codo abajo) + anillo + hoja de instalación + relleno
+- [ ] Contenido: dos ventilas cabeza con cola + anillo + hoja de instalación + relleno
 - [ ] Tapa sellada con cinta ReDry; etiquetas FRÁGIL del carrito si se requieren
 
 ## Para confirmar con Adam
 
 - ¿La tapa temporal blanca se instala en todas las bases, o solo cuando la base se envía sin cuerpo de ventila?
 - Cantidad exacta de tornillos por unión (las fotos muestran uno por unión).
-- Unidades por caja cuando se empaca más de una (las fotos muestran una por caja).
+- Con dos ventilas por caja, ¿va un anillo y una hoja por caja, o una por ventila?
