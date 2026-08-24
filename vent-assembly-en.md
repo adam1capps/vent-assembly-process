@@ -14,8 +14,8 @@ The **ReDry 2-Way Vent**: a roof-drying vent built on a spun-aluminum base. The 
 **Each finished box contains:**
 1. Two fully assembled vents (aluminum base + vent body + sleeve + elbow hood), laid head to tail
 2. One white ReDry trim ring
-3. One printed "Vent Installation Detail" sheet
-4. Kraft paper void fill
+3. One printed "Vent Installation Guide" sheet
+4. Kraft paper void fill + white foam strips
 
 ---
 
@@ -46,6 +46,8 @@ A batch of about 100 bases gets the **white temporary cap** only: press the cap 
 The cap is **not** used when assembling full vents.
 
 <img src="images/img_0097.jpg" width="440" alt="White temporary cap on the standpipe">
+
+**Boxing capped bases — 8 per box:** set the cardboard cross divider in the box and stand four capped bases upright (flange down, cap up), one per section. Then lay four more sideways on top — each flange against a box wall, capped standpipe pointing to the center, turned 90° from the last so they nest in a pinwheel. Seal like any box.
 
 ## Part 1 — Assemble the vent
 
@@ -108,12 +110,12 @@ Flip the box upright. **Each box gets two vents, laid head to tail** — the sec
 <img src="images/img_0124.jpg" width="330" alt="Vent placed in the box hood-down"> <img src="images/img_0125.jpg" width="330" alt="Vent seated in the box, flange up">
 
 ### 11. Pack it with kraft paper
-Pull kraft paper from the dispenser, crumple it, and pack it around the vent so nothing shifts.
+Pull kraft paper from the dispenser, crumple it, and pack it around the vents so nothing shifts. Lay the white foam strips along the vents.
 
 <img src="images/img_0127.jpg" width="330" alt="Pulling kraft paper from the dispenser"> <img src="images/img_0128.jpg" width="330" alt="Vent packed with kraft paper">
 
-### 12. Add the installation sheet and the trim ring
-Every box gets **one Vent Installation Detail sheet** and **one ReDry trim ring**, on top of the packed vent.
+### 12. Add the installation guide and the trim ring
+Every box gets **one printed Vent Installation Guide** and **one ReDry trim ring**, on top of the packed vents.
 
 <img src="images/img_0132.jpg" width="330" alt="Vent Installation Detail sheet"> <img src="images/img_0134.jpg" width="330" alt="ReDry trim ring going into the box">
 
@@ -132,11 +134,10 @@ Fold the flaps and seal the top with the **ReDry-printed gummed tape** strip.
 - [ ] Seam screws in at sleeve and hood
 - [ ] Fan lead and connector tucked and unpinched
 - [ ] Box bottom sealed in an H pattern
-- [ ] Contents: two vents head to tail + trim ring + installation sheet + void fill
+- [ ] Contents: two vents head to tail + foam strips + trim ring + installation guide + void fill
 - [ ] Top sealed with ReDry tape; FRAGILE stickers from the cart if required
 
 ## To confirm with Adam
 
-- How do the capped bases get packed and boxed?
 - Exact screw count per seam (photos show one per seam).
-- With two vents per box, is it one trim ring and one installation sheet per box, or one per vent?
+- Is it one trim ring per box, or one per vent?
