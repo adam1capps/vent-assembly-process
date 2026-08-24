@@ -39,16 +39,20 @@ La **Ventila ReDry de 2 Vías**: una ventila para secado de techos montada sobre
 
 ---
 
+## Trabajo aparte — tapar las bases (unas 100)
+
+Un lote de unas 100 bases lleva **solo la tapa temporal blanca**: presiona la tapa en el tubo vertical y pon su tornillo. Ese es todo el trabajo — sin cuerpo, sin manga y sin codo.
+
+La tapa **no** se usa cuando se arma la ventila completa.
+
+<img src="images/img_0097.jpg" width="440" alt="Tapa temporal blanca sobre el tubo vertical">
+
 ## Parte 1 — Ensambla la ventila
 
 ### 1. Empieza con la base de aluminio
-Pon la base sobre la mesa. Fíjate en las **ranuras cerca de la parte de arriba del tubo vertical** — ahí es donde se asegura el cuerpo de la ventila.
+Pon la base sobre la mesa. Fíjate en las **ranuras cerca de la parte de arriba del tubo vertical** — ahí es donde se asegura el cuerpo de la ventila. Estas bases van sin tapa.
 
 <img src="images/img_0098.jpg" width="440" alt="Base de aluminio con el tubo vertical ranurado">
-
-*Cuando una base se envía sin cuerpo de ventila, en su lugar se le pone la tapa temporal blanca al tubo, asegurada con su tornillo:*
-
-<img src="images/img_0097.jpg" width="440" alt="Tapa temporal blanca sobre el tubo vertical">
 
 ### 2. Conoce el cuerpo de la ventila
 El cuerpo blanco de 2 vías: campana redonda que entra en el tubo vertical, caja cuadrada del ventilador con el puerto redondo, y el cable del ventilador (rojo/negro con su conector). Tiene **agujeros pasantes en el cuello** — ubícalos antes de empezar.
@@ -133,6 +137,6 @@ Dobla las tapas y sella la parte de arriba con la tira de **cinta engomada con l
 
 ## Para confirmar con Adam
 
-- ¿La tapa temporal blanca se instala en todas las bases, o solo cuando la base se envía sin cuerpo de ventila?
+- ¿Cómo se empacan las bases con tapa?
 - Cantidad exacta de tornillos por unión (las fotos muestran uno por unión).
 - Con dos ventilas por caja, ¿va un anillo y una hoja por caja, o una por ventila?
