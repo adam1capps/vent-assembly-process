@@ -39,16 +39,20 @@ The **ReDry 2-Way Vent**: a roof-drying vent built on a spun-aluminum base. The 
 
 ---
 
+## Separate job — cap the bases (about 100)
+
+A batch of about 100 bases gets the **white temporary cap** only: press the cap onto the standpipe and drive its screw. That is the whole job — no vent body, sleeve, or hood.
+
+The cap is **not** used when assembling full vents.
+
+<img src="images/img_0097.jpg" width="440" alt="White temporary cap on the standpipe">
+
 ## Part 1 — Assemble the vent
 
 ### 1. Start with the aluminum base
-Set the base on the bench. Note the **slots near the top of the standpipe** — the vent body locks through these.
+Set the base on the bench. Note the **slots near the top of the standpipe** — the vent body locks through these. No cap on these bases.
 
 <img src="images/img_0098.jpg" width="440" alt="Aluminum base with slotted standpipe">
-
-*When a base ships without a vent body, the white temporary cap goes on the standpipe instead, held with its screw:*
-
-<img src="images/img_0097.jpg" width="440" alt="White temporary cap on the standpipe">
 
 ### 2. Know the vent body
 The white two-way vent body: round bell that fits the standpipe, square fan box with the round port, and the fan lead (red/black wires with the connector). There are **pass-through holes at the neck** — find them before you start.
@@ -133,6 +137,6 @@ Fold the flaps and seal the top with the **ReDry-printed gummed tape** strip.
 
 ## To confirm with Adam
 
-- Does the white temporary cap get installed on every base, or only when a base ships without a vent body?
+- How do the capped bases get packed and boxed?
 - Exact screw count per seam (photos show one per seam).
 - With two vents per box, is it one trim ring and one installation sheet per box, or one per vent?
