@@ -14,8 +14,8 @@ La **Ventila ReDry de 2 Vías**: una ventila para secado de techos montada sobre
 **Cada caja terminada lleva:**
 1. Dos ventilas completamente ensambladas (base de aluminio + cuerpo + manga + codo), acostadas cabeza con cola
 2. Un anillo embellecedor blanco ReDry
-3. Una hoja impresa "Vent Installation Detail" (detalle de instalación)
-4. Papel kraft de relleno
+3. Una guía impresa "Vent Installation Guide" (guía de instalación)
+4. Papel kraft de relleno + tiras de espuma blancas
 
 ---
 
@@ -46,6 +46,8 @@ Un lote de unas 100 bases lleva **solo la tapa temporal blanca**: presiona la ta
 La tapa **no** se usa cuando se arma la ventila completa.
 
 <img src="images/img_0097.jpg" width="440" alt="Tapa temporal blanca sobre el tubo vertical">
+
+**Empaque de bases con tapa — 8 por caja:** pon el divisor de cartón en cruz dentro de la caja y para cuatro bases con tapa (brida abajo, tapa arriba), una en cada sección. Después acuesta cuatro más encima, de lado — cada brida contra una pared de la caja, el tubo con tapa apuntando al centro, girando cada una 90° para que encajen en molinete. Sella como cualquier caja.
 
 ## Parte 1 — Ensambla la ventila
 
@@ -108,12 +110,12 @@ Voltea la caja boca arriba. **Cada caja lleva dos ventilas, acostadas cabeza con
 <img src="images/img_0124.jpg" width="330" alt="Ventila colocada en la caja con el codo hacia abajo"> <img src="images/img_0125.jpg" width="330" alt="Ventila asentada en la caja, brida arriba">
 
 ### 11. Rellena con papel kraft
-Jala papel kraft del dispensador, arrúgalo y acomódalo alrededor de la ventila para que nada se mueva.
+Jala papel kraft del dispensador, arrúgalo y acomódalo alrededor de las ventilas para que nada se mueva. Acomoda las tiras de espuma blancas a lo largo de las ventilas.
 
 <img src="images/img_0127.jpg" width="330" alt="Jalando papel kraft del dispensador"> <img src="images/img_0128.jpg" width="330" alt="Ventila empacada con papel kraft">
 
-### 12. Agrega la hoja de instalación y el anillo
-Cada caja lleva **una hoja "Vent Installation Detail"** y **un anillo embellecedor ReDry**, encima de la ventila ya empacada.
+### 12. Agrega la guía de instalación y el anillo
+Cada caja lleva **una guía impresa "Vent Installation Guide"** y **un anillo embellecedor ReDry**, encima de las ventilas ya empacadas.
 
 <img src="images/img_0132.jpg" width="330" alt="Hoja Vent Installation Detail"> <img src="images/img_0134.jpg" width="330" alt="Anillo ReDry entrando a la caja">
 
@@ -132,11 +134,10 @@ Dobla las tapas y sella la parte de arriba con la tira de **cinta engomada con l
 - [ ] Tornillos puestos en las uniones de la manga y del codo
 - [ ] Cable y conector del ventilador acomodados, sin prensarse
 - [ ] Fondo de la caja sellado en patrón H
-- [ ] Contenido: dos ventilas cabeza con cola + anillo + hoja de instalación + relleno
+- [ ] Contenido: dos ventilas cabeza con cola + tiras de espuma + anillo + guía de instalación + relleno
 - [ ] Tapa sellada con cinta ReDry; etiquetas FRÁGIL del carrito si se requieren
 
 ## Para confirmar con Adam
 
-- ¿Cómo se empacan las bases con tapa?
 - Cantidad exacta de tornillos por unión (las fotos muestran uno por unión).
-- Con dos ventilas por caja, ¿va un anillo y una hoja por caja, o una por ventila?
+- ¿Va un anillo por caja, o uno por ventila?
