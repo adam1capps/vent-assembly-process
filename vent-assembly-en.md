@@ -7,12 +7,12 @@
 
 ## What you are building
 
-The **ReDry 2-Way Vent**: a roof-drying vent built on a spun-aluminum base. The white two-way vent body (with the fan inside) locks onto the aluminum standpipe, a white sleeve and elbow hood cover it, and the finished vent is packed one per box with a trim ring and an installation sheet.
+The **ReDry 2-Way Vent**: a roof-drying vent built on a spun-aluminum base. The white two-way vent body (with the fan inside) locks onto the aluminum standpipe, a white sleeve and elbow hood cover it, and the finished vents are packed two per box — laid head to tail — with a trim ring and an installation sheet.
 
 <img src="images/img_0099.jpg" width="440" alt="Vent body sitting on the aluminum base, elbow hood behind">
 
 **Each finished box contains:**
-1. One fully assembled vent (aluminum base + vent body + sleeve + elbow hood)
+1. Two fully assembled vents (aluminum base + vent body + sleeve + elbow hood), laid head to tail
 2. One white ReDry trim ring
 3. One printed "Vent Installation Detail" sheet
 4. Kraft paper void fill
@@ -98,8 +98,8 @@ At the tape machine: set the length on the dial, press the lever, and it feeds w
 
 Keep the machine's water tank filled so the tape sticks.
 
-### 10. Vent goes in upside down
-Flip the box upright and set the assembled vent in **hood down, aluminum flange up**.
+### 10. Two vents go in — head to tail
+Flip the box upright. **Each box gets two vents, laid head to tail** — the second turned opposite to the first, so each hood sits beside the other vent's flange.
 
 <img src="images/img_0124.jpg" width="330" alt="Vent placed in the box hood-down"> <img src="images/img_0125.jpg" width="330" alt="Vent seated in the box, flange up">
 
@@ -128,11 +128,11 @@ Fold the flaps and seal the top with the **ReDry-printed gummed tape** strip.
 - [ ] Seam screws in at sleeve and hood
 - [ ] Fan lead and connector tucked and unpinched
 - [ ] Box bottom sealed in an H pattern
-- [ ] Contents: vent (hood down) + trim ring + installation sheet + void fill
+- [ ] Contents: two vents head to tail + trim ring + installation sheet + void fill
 - [ ] Top sealed with ReDry tape; FRAGILE stickers from the cart if required
 
 ## To confirm with Adam
 
 - Does the white temporary cap get installed on every base, or only when a base ships without a vent body?
 - Exact screw count per seam (photos show one per seam).
-- Units per box when boxing more than one (photos show one per box).
+- With two vents per box, is it one trim ring and one installation sheet per box, or one per vent?
